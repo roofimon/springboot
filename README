@@ -1,0 +1,5 @@
+1. clone source from repository
+2. mvn dependency-tree
+3. mvn package
+4. jar -tvf target/spring-1.0-SNAPSHOT.jar
+5. java -jar target/spring-1.0-SNAPSHOT.jar
